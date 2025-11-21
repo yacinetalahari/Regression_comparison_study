@@ -104,8 +104,4 @@ This project is open source and available under the MIT License.
 
 ⭐ If you find this useful, please give it a star! It helps others discover the project and motivates me to keep building and sharing.
 
-Happy coding! 🚀
 
-text
-
-This version feels more personal and conversational while still maintaining all the technical information. It's like you're explaining your project to a fellow student or curious developer! 😊
